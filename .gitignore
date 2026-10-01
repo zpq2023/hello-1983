@@ -1,0 +1,16 @@
+# 自检产物：随时可用 .qa/shots.cjs 重新生成，不进仓库
+.qa/shots/
+.qa/dl/
+.qa/zc/
+.qa/xx/
+
+# 本地工具（便携版 GitHub CLI 等）
+.tools/
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+.idea/
+.vscode/
